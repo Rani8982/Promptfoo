@@ -1,0 +1,4 @@
+streamlit
+pandas
+portkey-ai
+python-dotenv
